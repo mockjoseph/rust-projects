@@ -14,9 +14,6 @@ fn main() {
 
     // Fairly standard way of reading in some data from the user
     // Can wirte this on one line but rust allows for multiple so we will use it
-    
-
-    
 
     loop {
         let mut guess = String::new();
@@ -36,7 +33,4 @@ fn main() {
         }
     }
     }
-    
-    
-
 }
